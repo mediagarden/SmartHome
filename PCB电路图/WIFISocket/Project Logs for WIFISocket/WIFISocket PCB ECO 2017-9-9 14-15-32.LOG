@@ -1,0 +1,6 @@
+Added Component: Designator=P1(KF128-3P)
+Added Pin To Net: NetName=ACN Pin=P1-1
+Added Pin To Net: NetName=ACL Pin=P1-2
+Added Pin To Net: NetName=SWL Pin=P1-3
+Added Member To Class: ClassName=WIFISocket Member=Component P1 Connector
+Added Room: Name=WIFISocket

@@ -1,0 +1,7 @@
+Added Component: Designator=U2(HLK_PM01)
+Added Pin To Net: NetName=ACL Pin=U2-1
+Added Pin To Net: NetName=ACN Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Member To Class: ClassName=WIFISocket Member=Component U2 HLK-PM01
+Added Room: Name=WIFISocket

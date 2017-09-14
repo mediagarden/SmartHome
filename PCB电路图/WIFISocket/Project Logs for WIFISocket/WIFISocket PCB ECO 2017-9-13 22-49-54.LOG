@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SWL Pin=K1-1
+Removed Pin From Net: NetName=ACL Pin=K1-3
+Change Component Comment : Designator=Q1 Old Comment=S0805 New Comment=S8050
+Added Pin To Net: NetName=ACL Pin=K1-1
+Added Pin To Net: NetName=SWL Pin=K1-3
+Added Room: Name=WIFISocket

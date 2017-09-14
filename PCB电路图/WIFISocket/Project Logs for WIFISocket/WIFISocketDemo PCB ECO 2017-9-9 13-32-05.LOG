@@ -1,0 +1,57 @@
+Added Component: Designator=C1(0603A)
+Added Component: Designator=C2(0603A)
+Added Component: Designator=C3(0603A)
+Added Component: Designator=C4(0603A)
+Added Component: Designator=R2(0603R)
+Added Component: Designator=R3(0603R)
+Added Component: Designator=R4(0603R)
+Added Component: Designator=R5(0603R)
+Added Component: Designator=R6(0603R)
+Added Component: Designator=R7(0603R)
+Added Component: Designator=R8(0603R)
+Added Component: Designator=R9(0603R)
+Added Component: Designator=R10(0603R)
+Added Component: Designator=R11(0603R)
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC_3.3V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VCC_3.3V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetQ1_B Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR2_1 Pin=R4-2
+Added Pin To Net: NetName=NetP3_2 Pin=R5-1
+Added Pin To Net: NetName=VCC_3.3V Pin=R5-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetP4_2 Pin=R7-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R9-1
+Added Pin To Net: NetName=NetP4_2 Pin=R9-2
+Added Pin To Net: NetName=SW_BUTTON Pin=R10-1
+Added Pin To Net: NetName=VCC_3.3V Pin=R10-2
+Added Pin To Net: NetName=SW_LED Pin=R11-1
+Added Pin To Net: NetName=NetD3_2 Pin=R11-2
+Added Member To Class: ClassName=WIFISocket Member=Component C1 0.1uF
+Added Member To Class: ClassName=WIFISocket Member=Component C2 10uF
+Added Member To Class: ClassName=WIFISocket Member=Component C3 10uF
+Added Member To Class: ClassName=WIFISocket Member=Component C4 0.1uF
+Added Member To Class: ClassName=WIFISocket Member=Component R2 Res
+Added Member To Class: ClassName=WIFISocket Member=Component R3 Res
+Added Member To Class: ClassName=WIFISocket Member=Component R4 Res
+Added Member To Class: ClassName=WIFISocket Member=Component R5 Res
+Added Member To Class: ClassName=WIFISocket Member=Component R6 Res
+Added Member To Class: ClassName=WIFISocket Member=Component R7 Res
+Added Member To Class: ClassName=WIFISocket Member=Component R8 Res
+Added Member To Class: ClassName=WIFISocket Member=Component R9 Res
+Added Member To Class: ClassName=WIFISocket Member=Component R10 Res
+Added Member To Class: ClassName=WIFISocket Member=Component R11 Res
+Added Room: Name=WIFISocket

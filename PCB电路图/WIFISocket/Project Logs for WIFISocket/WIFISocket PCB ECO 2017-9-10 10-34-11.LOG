@@ -1,0 +1,12 @@
+Added Component: Designator=P5(BUTTON)
+Added Component: Designator=U1(AMS1117-3.3)
+Added Pin To Net: NetName=SW_BUTTON Pin=P5-1
+Added Pin To Net: NetName=SW_BUTTON Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=VCC_3.3V Pin=U1-2
+Added Pin To Net: NetName=VCC_3.3V Pin=U1-2
+Added Pin To Net: NetName=+5V Pin=U1-3
+Added Member To Class: ClassName=WIFISocket Member=Component P5 Button
+Added Member To Class: ClassName=WIFISocket Member=Component U1 AMS1117-3.3

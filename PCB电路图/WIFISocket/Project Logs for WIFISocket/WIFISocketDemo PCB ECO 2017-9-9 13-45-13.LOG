@@ -1,0 +1,6 @@
+Added Component: Designator=U1(SOT223)
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=VCC_3.3V Pin=U1-2
+Added Pin To Net: NetName=+5V Pin=U1-3
+Added Member To Class: ClassName=WIFISocket Member=Component U1 AMS1117-3.3
+Added Room: Name=WIFISocket
