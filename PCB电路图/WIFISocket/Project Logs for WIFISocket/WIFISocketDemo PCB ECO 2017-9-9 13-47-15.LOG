@@ -1,5 +1,0 @@
-Added Component: Designator=D1(1N4007)
-Added Pin To Net: NetName=NetD1_1 Pin=D1-1
-Added Pin To Net: NetName=+5V Pin=D1-2
-Added Member To Class: ClassName=WIFISocket Member=Component D1 IN4007
-Added Room: Name=WIFISocket

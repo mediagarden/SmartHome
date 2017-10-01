@@ -1,4 +1,0 @@
-Change Component Designator: OldDesignator=R8 NewDesignator=R9
-Change Component Designator: OldDesignator=R9 NewDesignator=R8
-Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR9_1
-Added Room: Name=WIFISocket
