@@ -15,6 +15,7 @@ PinSwapBy_Pin=1
 AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
 DefaultConfiguration=
 UserID=0xFFFFFFFF
 DefaultPcbProtel=1
@@ -23,6 +24,7 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
+DItemRevisionGUID=
 
 [Document1]
 DocumentPath=WIFISocket.SCHLIB
@@ -37,6 +39,7 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
+DItemRevisionGUID=
 
 [Document2]
 DocumentPath=WIFISocket.PcbLib
@@ -51,6 +54,7 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
+DItemRevisionGUID=
 
 [Document3]
 DocumentPath=WIFISocket.SchDoc
@@ -65,6 +69,7 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
+DItemRevisionGUID=
 
 [Document4]
 DocumentPath=WIFISocket.PcbDoc
@@ -79,9 +84,15 @@ DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
+DItemRevisionGUID=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for WIFISocket\Design Rule Check - WIFISocket.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=WIFISocket.PcbDoc.htm
+DItemRevisionGUID=
 
 [Generic_SignalIntegritySimulation]
 SignalIntegrityInitialised=-1
@@ -375,6 +386,11 @@ OutputName2=Generates pick and place files
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -662,6 +678,12 @@ OutputDocumentPath27=
 OutputVariantName27=
 OutputDefault27=0
 PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType28=Text Print
+OutputName28=Text Print
+OutputDocumentPath28=
+OutputVariantName28=
+OutputDefault28=0
+PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 
 [Modification Levels]
 Type1=1
@@ -730,6 +752,8 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
+Type67=1
+Type68=1
 
 [Difference Levels]
 Type1=1
@@ -766,6 +790,8 @@ Type31=1
 Type32=1
 Type33=1
 Type34=1
+Type35=1
+Type36=1
 
 [Electrical Rules Check]
 Type1=1
