@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Hardware">
+      <UniqueIdentifier>{56035437-d4cd-4211-b205-a93b0be4c1a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Network">
+      <UniqueIdentifier>{e9ef4f64-4b6e-4625-9503-2ee6eb5ed0ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config">
+      <UniqueIdentifier>{a59bcc13-9d27-4b51-8e6b-d94810962e2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Task">
+      <UniqueIdentifier>{4d4bae06-5c2b-4d5c-b4d7-cb7f27438bd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Service">
+      <UniqueIdentifier>{b5f40546-dc11-41cf-9e8a-52b7950b976d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="WIFISocket.ino" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="__vm\.WIFISocket.vsarduino.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketButton.h">
+      <Filter>Hardware</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketLED.h">
+      <Filter>Hardware</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketSwitch.h">
+      <Filter>Hardware</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketDebug.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketUdpDiscovery.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketUdpServer.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketSwitchStateSettings.h">
+      <Filter>Config</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketRecoverySettings.h">
+      <Filter>Config</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketFsTools.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketSwitchStateTask.h">
+      <Filter>Task</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketSwitchStateService.h">
+      <Filter>Service</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketCommonService.h">
+      <Filter>Service</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketCommon.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketDeviceSettings.h">
+      <Filter>Config</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketCountDownSettings.h">
+      <Filter>Config</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketTimingSettings.h">
+      <Filter>Config</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketCountDownService.h">
+      <Filter>Service</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketDeviceService.h">
+      <Filter>Service</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketTimingService.h">
+      <Filter>Service</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketCountDownTask.h">
+      <Filter>Task</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketDeviceTask.h">
+      <Filter>Task</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketTimingTask.h">
+      <Filter>Task</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketCommonSettings.h">
+      <Filter>Config</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketRTCDevice.h">
+      <Filter>Hardware</Filter>
+    </ClInclude>
+    <ClInclude Include="WIFISocketNTPClient.h">
+      <Filter>Hardware</Filter>
+    </ClInclude>
+    <ClInclude Include="RTClib.h">
+      <Filter>Hardware</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WIFISocketButton.cpp">
+      <Filter>Hardware</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketLED.cpp">
+      <Filter>Hardware</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketSwitch.cpp">
+      <Filter>Hardware</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketDebug.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketUdpDiscovery.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketUdpServer.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketSwitchStateSettings.cpp">
+      <Filter>Config</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketRecoverySettings.cpp">
+      <Filter>Config</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketFsTools.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketSwitchStateTask.cpp">
+      <Filter>Task</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketSwitchStateService.cpp">
+      <Filter>Service</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketCommonService.cpp">
+      <Filter>Service</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketDeviceSettings.cpp">
+      <Filter>Config</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketCountDownSettings.cpp">
+      <Filter>Config</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketTimingSettings.cpp">
+      <Filter>Config</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketCountDownService.cpp">
+      <Filter>Service</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketDeviceService.cpp">
+      <Filter>Service</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketTimingService.cpp">
+      <Filter>Service</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketCountDownTask.cpp">
+      <Filter>Task</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketDeviceTask.cpp">
+      <Filter>Task</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketTimingTask.cpp">
+      <Filter>Task</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketCommonSettings.cpp">
+      <Filter>Config</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketRTCDevice.cpp">
+      <Filter>Hardware</Filter>
+    </ClCompile>
+    <ClCompile Include="WIFISocketNTPClient.cpp">
+      <Filter>Hardware</Filter>
+    </ClCompile>
+    <ClCompile Include="RTClib.cpp">
+      <Filter>Hardware</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

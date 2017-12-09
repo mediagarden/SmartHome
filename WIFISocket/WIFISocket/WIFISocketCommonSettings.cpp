@@ -1,0 +1,4 @@
+#include "WIFISocketCommonSettings.h"
+
+StaticJsonBuffer<CONFIG_FILE_MAXSIZE> WIFISocketCommonSettingsClass::mCommonJsonBuffer;
+char WIFISocketCommonSettingsClass::mCommonFileBuffer[CONFIG_FILE_MAXSIZE];

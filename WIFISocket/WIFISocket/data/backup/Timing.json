@@ -1,0 +1,89 @@
+{
+   "TimingTaskList" : [
+      {
+         "Id" : 1,
+         "Running" : false,
+         "Action" : [
+            {
+               "Available" : false,
+               "TimeStamp" : 0,
+               "SwitchState" : true
+            },
+            {
+               "Available" : false,
+               "TimeStamp" : 0,
+               "SwitchState" : false
+            }
+         ],
+         "LoopMark" : 255
+      },
+      {
+         "Id" : 2,
+         "Running" : false,
+         "Action" : [
+            {
+               "Available" : false,
+               "TimeStamp" : 0,
+               "SwitchState" : true
+            },
+            {
+               "Available" : false,
+               "TimeStamp" : 0,
+               "SwitchState" : false
+            }
+         ],
+         "LoopMark" : 255
+      },
+      {
+         "Id" : 3,
+         "Running" : false,
+         "Action" : [
+            {
+               "Available" : false,
+               "TimeStamp" : 0,
+               "SwitchState" : true
+            },
+            {
+               "Available" : false,
+               "TimeStamp" : 0,
+               "SwitchState" : false
+            }
+         ],
+         "LoopMark" : 255
+      },
+      {
+         "Id" : 4,
+         "Running" : false,
+         "Action" : [
+            {
+               "Available" : false,
+               "TimeStamp" : 0,
+               "SwitchState" : true
+            },
+            {
+               "Available" : false,
+               "TimeStamp" : 0,
+               "SwitchState" : false
+            }
+         ],
+         "LoopMark" : 255
+      },
+      {
+         "Id" : 5,
+         "Running" : false,
+         "Action" : [
+            {
+               "Available" : false,
+               "TimeStamp" : 0,
+               "SwitchState" : true
+            },
+            {
+               "Available" : false,
+               "TimeStamp" : 0,
+               "SwitchState" : false
+            }
+         ],
+         "LoopMark" : 255
+      }
+   ]
+}
